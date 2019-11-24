@@ -3,7 +3,7 @@ Script for straightening Maya UV`s
 
 
 
-For many years of using Maya I reached the point that I got tired of my rigid uvs straightening workflow. Encountered much better uvs straightening methods on 3dsmax, Unfold3d, Blender I wanted to bring something similar in Maya.  Therefore I started thinking about how without going deep into Maya API and recreating algorithms I could create a script that would facilitate my workflow. I started experimenting and thought about idea to create custom pinning script that would:
+For many years of using Maya I reached the point that I got tired of my rigid uvs straightening workflow. Encountered much better uvs straightening methods on 3dsmax, Unfold3d, Blender I wanted to bring something similar in Maya.  Therefore I started thinking about how without going deep into Maya API and recreating complex algorithms I could create a script that would facilitate my workflow. I started experimenting and thought about idea to create custom pinning script that would:
 
 -straighten selected uvs by putting them either on vertical axis line or horizontal
 
