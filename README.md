@@ -19,4 +19,4 @@ In the process of making and releasing prototype version, I faced a couple of pr
 
 Here is how this script works visually:
 
-<a href="https://gifyu.com/image/v4Fg"><img src="https://s5.gifyu.com/images/UV_Straightener_ALPHA_expl0c0d684cb2a6930a.md.gif" alt="UV_Straightener_ALPHA_expl0c0d684cb2a6930a.gif" border="0" /></a>
+<a href="https://gifyu.com/image/v4F8"><img src="https://s5.gifyu.com/images/UV_Straightener_ALPHA_explolder.gif" alt="UV_Straightener_ALPHA_explolder.gif" border="0" /></a>
