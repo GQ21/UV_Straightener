@@ -14,9 +14,9 @@ For many years of using Maya I reached the point that I got tired of my rigid uv
 -unfolding rest marked shell uvs excluding marked uvs
 
 To put it simply the idea was to make custom pinning tool with a function to move pinned uvs and unfold them. 
-In the process of making and releasing prototype version, I faced couple of problems like limitation of uv editor texture representation in UDIMs space, slow calculation process ( if you have enormous amount of marked lines ). Although those problems can be ignored by limiting yourself with working just in one to one uvs space and working only with one uv shell at the time. There are plenty of space of improvements and fixes although I made this script for test and learning process. To create a proper uv straightener might be better solution to go deeper on Maya`s API and building faster and more efficient marking system which would not rely on textures.
+In the process of making and releasing prototype version, I faced a couple of problems like limitation of uv editor texture representation in UDIMs space, slow calculation process ( if you have enormous amount of marked lines ). Although those problems can be ignored by limiting yourself with working just in one to one uvs space and working only with one uv shell at the time. There are plenty of space for improvements and fixes left although I made this script for test and learning process. To create a proper uv straightener might be better solution to go deeper on Maya`s API and building faster and more efficient marking system which would not rely on textures.
 
 
 Here is how this script works visually:
 
-<a href="https://gifyu.com/image/v4Fs"><img src="https://s5.gifyu.com/images/UV_Straightener_ALPHA_expl_02.gif" alt="UV_Straightener_ALPHA_expl_02.gif" border="0" /></a>
+<a href="https://gifyu.com/image/v4FT"><img src="https://s5.gifyu.com/images/test14.gif" alt="test14.gif" border="0" /></a>
