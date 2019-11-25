@@ -19,4 +19,4 @@ In the process of making and releasing prototype version, I faced a couple of pr
 
 Here is how this script works visually:
 
-<a href="https://gifyu.com/image/v4FT"><img src="https://s5.gifyu.com/images/test14.md.gif" alt="test14.gif" border="0" /></a>
+<iframe src="https://giphy.com/embed/MeDJufSc7088Gbx5pi" width="480" height="335" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MeDJufSc7088Gbx5pi">via GIPHY</a></p>
